@@ -76,3 +76,4 @@ gem "font-awesome-sass", "~> 6.4.0"
 gem 'html2haml'
 gem "haml-rails", "~> 2.0"
 gem 'simple_form'
+gem 'faker'
